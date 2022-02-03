@@ -1,0 +1,270 @@
+.Login {
+    width: 43px;
+    height: 40px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+  }
+  .Create-an-account {
+    width: 152px;
+    height: 40px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+  }
+  .icon {
+    width: 100px;
+    height: 100px;
+    font-family: Poppins;
+    font-size: 70px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+    position: relative;
+    top: -360px;
+    left: 47%;
+    background-color: white;
+    text-align: center;
+    border-radius: 100px;
+  }
+  .heading {
+    width: 754px;
+    height: 70px;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    top: -350px;
+    left: 36%;
+    position: relative;
+  }
+  .input1 {
+    display: inline-block;
+    position: relative;
+    top: -352px;
+    left: 38%;
+    width: 100px;
+  }
+  .input2 {
+    display: inline-block;
+    position: relative;
+    top: -340px;
+    left: 39%;
+    width: 280px;
+  }
+  .Quick-Searches {
+    width: 239px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    color: darkslateblue;
+    position: relative;
+    top: -160px;
+    left: 70px;
+  }
+  .Discover-restaurants-by-type-of-meal {
+    width: 331px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #8c96ab;
+    position: relative;
+    top: -150px;
+    left: 70px;
+  }
+  .qs-block {
+    height: 160px;
+    top: -100px;
+    width: 360px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    margin-bottom: 30px;
+    margin-left: 60px;
+  }
+  .left-block {
+    width: 40%;
+    float: left;
+  }
+  .right-block {
+    width: 55%;
+    float: right;
+    padding-left: 30px;
+  }
+  .photos {
+    width: 160px;
+    height: 160px;
+  }
+  .Breakfast,
+  .Lunch,
+  .Dinner,
+  .Snacks,
+  .Drinks,
+  .Nightlife {
+    width: 88px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkslateblue;
+    display: inline-block;
+  }
+  .text {
+    width: 137px;
+    height: 62px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  .Loginn {
+    position: relative;
+    left: 80%;
+  }
+  .Create-Account {
+    position: relative;
+    left: 80%;
+    margin: 7px;
+  }
+  @media only screen and (min-width: 500px) and (max-width: 950px) {
+    .heading {
+      width: 754px;
+      height: 70px;
+      font-family: Poppins;
+      font-size: 50px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: normal;
+      text-align: left;
+      color: white;
+      top: -350px;
+      left: 29%;
+      position: relative;
+    }
+    .input1 {
+      display: inline-block;
+      position: relative;
+      top: -352px;
+      left: 31%;
+      width: 100px;
+    }
+    .input2 {
+      display: inline-block;
+      position: relative;
+      top: -340px;
+      left: 33%;
+      width: 280px;
+    }
+    .Loginn {
+      position: relative;
+      left: 74%;
+    }
+    .Create-Account {
+      position: relative;
+      left: 73%;
+      margin: 7px;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .Loginn {
+      position: relative;
+      left: 55%;
+    }
+    .Create-Account {
+      position: relative;
+      left: 52%;
+      margin: 7px;
+    }
+    .icon {
+      width: 100px;
+      height: 100px;
+      font-family: Poppins;
+      font-size: 70px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.51;
+      letter-spacing: normal;
+      text-align: left;
+      color: #eb2929;
+      position: relative;
+      top: -360px;
+      left: 41%;
+      background-color: white;
+      text-align: center;
+      border-radius: 100px;
+    }
+    .heading {
+      width: 754px;
+      height: 70px;
+      font-family: Poppins;
+      font-size: 50px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: normal;
+      text-align: left;
+      color: white;
+      top: -350px;
+      left: 5%;
+      position: relative;
+    }
+    .input1 {
+      display: inline-block;
+      position: relative;
+      top: -352px;
+      left: 10%;
+      width: 100px;
+    }
+    .input2 {
+      display: inline-block;
+      position: relative;
+      top: -340px;
+      left: 12%;
+      width: 280px;
+    }
+  }
+  
